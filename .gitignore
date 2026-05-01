@@ -1,0 +1,9 @@
+# Secret tokens
+.env
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
